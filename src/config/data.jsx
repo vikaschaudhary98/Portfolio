@@ -11,7 +11,7 @@ const personalData = {
   mail: "mailto:vikaschaudhary7474@gmail.com",
   resume: "resume/resume1.pdf",
   // About Section
-  aboutImg: "images/about.png",
+  //aboutImg: "images/about.png",
   aboutTitle: "Full Stack Developer",
   aboutText:
     "Hi, I'm Vikas, a Java Full Stack developer based in India. I have a passion for web development and I'm currently learning React, HTML, CSS, Bootstrap and JavaScript.  I am a passionate Java backend developer with expertise in building scalable and efficient applications. With strong knowledge of Java programming and hands-on experience in Spring Boot, I specialize in developing RESTful APIs, microservices, and enterprise-level solutions. My focus is on writing clean, maintainable code and delivering applications that are both robust and performance-driven.",
